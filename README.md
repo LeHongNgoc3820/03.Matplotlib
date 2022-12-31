@@ -1,5 +1,7 @@
 # Trực quan hoá dữ liệu với Matplotlib
+[**Chi tiết bài viết**](https://github.com/LeHongNgoc3820/03.Matplotlib/blob/main/Data_Visualization_with_Matplotlib.ipynb)
 
+**Dưới đây là tóm tắt lí thuyết**
 ## Nội dung:
 1. Vai trò của trực quan hoá dữ liệu
 2. Matplotlib
@@ -91,4 +93,3 @@ hay theo [Kirk (2016)](https://books.google.com.vn/books?hl=vi&lr=&id=wNpsDAAAQB
 **Bước 5: Hiển thị plot**
 + `plt.show()`
 
-[**Chi tiết bài viết**](https://github.com/LeHongNgoc3820/03.Matplotlib/blob/main/Data_Visualization_with_Matplotlib.ipynb)
