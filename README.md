@@ -90,3 +90,5 @@ hay theo [Kirk (2016)](https://books.google.com.vn/books?hl=vi&lr=&id=wNpsDAAAQB
 
 **Bước 5: Hiển thị plot**
 + `plt.show()`
+
+[**Chi tiết bài viết**](https://github.com/LeHongNgoc3820/03.Matplotlib/blob/main/Data_Visualization_with_Matplotlib.ipynb)
