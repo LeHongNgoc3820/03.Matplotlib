@@ -13,7 +13,7 @@
 
 **Tạm dịch:** là việc sử dụng các biểu diễn trực quan của dữ liệu trừu tượng thông qua sự hỗ trợ của máy tính để mở rộng nhận thức.
 
-hay theo [Kirk (2016)](https://books.google.com.vn/books?hl=vi&lr=&id=wNpsDAAAQBAJ&oi=fnd&pg=PP1&dq=Kirk+(2016)&ots=AGw31mDjg5&sig=FmYDQTTO7RiapRygr5uns2B2hnY&redir_esc=y#v=onepage&q=Kirk%20(2016)&f=false), thì trực quan hoá dữ liệu có thể là sự diễn tả và trình bày dữ liệu để tạo điều kiện cho việc hiểu biết về dữ liệu.
+hay theo [Kirk (2016)](https://books.google.com.vn/books?hl=vi&lr=&id=wNpsDAAAQBAJ&oi=fnd&pg=PP1&dq=Kirk+(2016)&ots=AGw31mDjg5&sig=FmYDQTTO7RiapRygr5uns2B2hnY&redir_esc=y#v=onepage&q=Kirk%20(2016)&f=false), thì trực quan hoá dữ liệu có thể hiểu là sự diễn tả và trình bày dữ liệu để tạo điều kiện cho việc hiểu biết về dữ liệu.
 
 **Vậy, tại sao cần trực quan hoá dữ liệu?**
 + Giúp người xem và hiểu dữ liệu một cách trực quan và dễ hiểu
